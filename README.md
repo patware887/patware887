@@ -19,9 +19,9 @@
 🌱 I’m currently learning <b>Web3 Frontend Libraries</b></br>
 📝 I've keen interest in blockchain as a technology.
 </div>
-<br><br><br>
+<br><br><br><br
 <!-- Technologies I know -->
-<div id="tech-stack"> 
+<div id="tech-stack" align="center"> 
   <ul align="center">
   <summary>  <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2> </summary>
   </ul>
