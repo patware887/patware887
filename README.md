@@ -51,8 +51,6 @@
 
 <br/>
 
-<!-- ═══════════════════ NEURAL NETWORK INTRO ═══════════════════ -->
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; The Neural Network Behind The Code
 
 ```python
@@ -116,12 +114,9 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════ EXPERIENCE HIGHLIGHTS ═══════════════════ -->
 
 ## 🏢 Experience & Impact
 
@@ -157,12 +152,9 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">&nbsp; Tech Arsenal & AI Toolkit
 
@@ -237,12 +229,9 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════ AI PHILOSOPHY ═══════════════════ -->
 
 ## 🧬 My AI Development Philosophy
 
@@ -275,27 +264,11 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- ═══════════════════ FEATURED AI PROJECTS ═══════════════════ -->
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">&nbsp; Featured AI Projects — Live & Deployed
-
-<div align="center">
-  <a href="https://github.com/patware887/webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patware887&repo=webapp&theme=radical&border_color=7F3FBF&border_radius=10" alt="webapp"/>
-  </a>
-  <a href="https://github.com/patware887/HarshPatware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patware887&repo=HarshPatware&theme=radical&border_color=7F3FBF&border_radius=10" alt="HarshPatware"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ═══════════════ PROJECT SHOWCASE CARDS ═══════════════ -->
 
 <details>
 <summary>🧠 <b>RAG Document Assistant</b> — AI-Powered Document Q&A (Live)</summary>
@@ -358,36 +331,20 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28">&nbsp; GitHub Analytics
 
 <div align="center">
 
-  <!-- Stats Card + Streak Side by Side -->
-  <a href="https://github.com/patware887">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patware887&show_icons=true&theme=radical&border_color=7F3FBF&border_radius=10&include_all_commits=true&count_private=true&custom_title=Harsh's%20GitHub%20Stats" alt="Harsh's Stats"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/patware887">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=patware887&theme=radical&border=7F3FBF&border_radius=10" alt="Harsh's Streak"/>
   </a>
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/patware887">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patware887&layout=donut-vertical&theme=radical&border_color=7F3FBF&border_radius=10&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
   <a href="https://github.com/patware887">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=patware887&custom_title=Harsh's%20Contribution%20Graph&theme=rogue&border_color=7F3FBF&border_radius=10&area=true&hide_border=false" alt="Activity Graph"/>
   </a>
@@ -396,54 +353,9 @@ print(me.mission())
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patware887&theme=radical&no-frame=true&no-bg=false&margin-w=5&margin-h=5&column=8" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patware887/patware887/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patware887/patware887/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/patware887/patware887/output/github-snake.svg" />
-  </picture>
-
-</div>
-
-<!--
-🐍 SNAKE SETUP: Create .github/workflows/snake.yml in your patware887/patware887 repo
-with the Platane/snk@v3 action using github_user_name: patware887
-Then run the workflow manually once.
--->
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">&nbsp; Let's Connect & Build Something Intelligent
 
