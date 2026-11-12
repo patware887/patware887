@@ -1,57 +1,124 @@
 <!-- ══════════════════════════════════════════════════════════════════════
-  🧠 HARSH PATWARE — Full Stack Developer & AI Solutions Architect
-     GitHub Profile README | Optimized for Impact & Discoverability
+  🧠 HARSH PATWARE — Full Stack • AI Solutions • Web3 • SSI
+     GitHub Profile README v2
 ══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED WAVE HEADER -->
+<!-- ─── HEADER ─── -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harsh%20Patware&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full%20Stack%20Engineer%20%7C%20AI%20Solutions%20Architect&descSize=22&descAlignY=55&descColor=ddd"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Harsh%20Patware&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%E2%80%A2%20AI%20Solutions%20%E2%80%A2%20Web3%20%E2%80%A2%20SSI&descSize=22&descAlignY=56&descColor=ddd"/>
 </div>
 
-<!-- ANIMATED TYPING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+I+Build+Intelligent+Systems+That+Think%2C+Learn+%26+Scale;%F0%9F%9A%80+Full+Stack+%2B+AI+%3D+Products+That+Change+The+Game;%F0%9F%94%A5+From+Pixel-Perfect+UIs+to+LLM-Powered+Pipelines;%E2%9A%A1+Turning+Ideas+Into+AI-Powered+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%E2%9A%A1+Full+Stack+%E2%80%A2+AI+Solutions+%E2%80%A2+Web3+%E2%80%A2+SSI;%F0%9F%9A%80+Shipping+CodeStack+%E2%80%94+multi-tenant+coding+platform;%F0%9F%86%94+Self-Sovereign+Identity+%26+DID+at+national+scale;%F0%9F%A4%96+From+Pixel-Perfect+UIs+to+LLM-Powered+Pipelines" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- PROFILE BADGES -->
 <div align="center">
-  
-  <a href="https://harsh-patware-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-harsh--patware--dev-blueviolet?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harsh-patware-78923a253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:harshpatware1505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=patware887&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/patware887?tab=followers">
-    <img src="https://img.shields.io/github/followers/patware887?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/patware887?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/patware887?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars"/>
-  </a>
-  
+  <a href="https://harsh-patware-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-harsh--patware--dev-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/harsh-patware-78923a253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshpatware1505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=patware887&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/patware887?tab=followers"><img src="https://img.shields.io/github/followers/patware887?label=Followers&style=flat-square&color=blue" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/📍-Indore%2C%20India-orange?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Collabs-success?style=flat-square" alt="Open to collabs"/>
 </div>
 
-<br/>
+<!-- ─── QUICK NAV ─── -->
+<p align="center">
+  <a href="#-flagship-project--codestack"><b>CodeStack</b></a> •
+  <a href="#-about-me"><b>About</b></a> •
+  <a href="#-experience--impact"><b>Experience</b></a> •
+  <a href="#-tech-arsenal"><b>Stack</b></a> •
+  <a href="#-featured-ai-projects"><b>Projects</b></a> •
+  <a href="#-github-analytics"><b>Stats</b></a> •
+  <a href="#-lets-connect"><b>Connect</b></a>
+</p>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════ FLAGSHIP: CODESTACK ═══════════════════════ -->
+
+## 🚀 Flagship Project — CodeStack
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=110&text=CodeStack&fontSize=48&fontColor=fff&fontAlignY=42&desc=Multi-tenant%20LeetCode-style%20Coding%20Education%20Platform&descSize=16&descAlignY=74"/>
+
+  <a href="https://codestackweb-production.up.railway.app/"><img src="https://img.shields.io/badge/🚀_Live_App-Try_CodeStack-7C3AED?style=for-the-badge" alt="Live"/></a>
+  <a href="https://github.com/codestackrepo/Codestack"><img src="https://img.shields.io/badge/Source-Private-181717?style=for-the-badge&logo=github" alt="Repo"/></a>
+  <img src="https://img.shields.io/badge/Deployed_on-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+</div>
+
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; The Neural Network Behind The Code
+> **Professors author problems & assignments → students submit code that's judged asynchronously in an isolated sandbox → staff grade the results.** Every university is an isolated tenant; a platform SuperAdmin provisions tenants and controls what each one can use.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ Key Features
+- ⚡ **Live judging** — verdicts stream `Pending → Running → Accepted` over WebSockets, with REST polling fallback
+- 🛡️ **Sandboxed execution** — self-hosted Piston pool (Python, Node, C++, Java) behind a global in-flight semaphore
+- 🏫 **Multi-tenant by design** — every query tenant-scoped through one auditable helper
+- 🔐 **8-layer permission engine** — module & feature access with RBAC, org grants and per-role overrides
+- 📏 **Per-org quotas & seats** — enforced inside the transaction with row locks, so limits can't race
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Two Onboarding Ecosystems
+- **Closed** — institutions apply, SuperAdmin approves with seat caps, admins invite professors & students into a **co-branded workspace**
+- **Open** — individual students sign up; professors request access and get approved
+
+### 📬 Production Mail
+BullMQ-queued invites, reminders & resets via a pluggable provider seam (Brevo · Resend · SMTP)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>🏗️ <b>System design</b> — click to expand</summary>
+<br/>
+
+```mermaid
+flowchart LR
+    B[🌐 React 19 + Vite] -- REST /api/v1 --> A[⚙️ NestJS API<br/>stateless · guard chain]
+    A -- enqueue judge job --> Q[(BullMQ / Redis 7)]
+    Q --> W[👷 Workers]
+    W --> P[🛡️ Piston pool<br/>sandboxed exec]
+    W --> D[(🐘 PostgreSQL 16)]
+    A --> D
+    W -- progress --> R[Redis pub/sub]
+    R -- Socket.IO verdicts --> B
+```
+
+**Guard chain per request:** authn (JWT cookie) → tenant gate → RBAC → module access → feature access
+
+</details>
+
+<p align="center">
+  <b>Built with</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,ts,react,vite,tailwind,postgres,redis,docker,pnpm&theme=dark" alt="CodeStack stack"/>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Piston-Sandbox-4B5563?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Argon2_+_JWT-7C3AED?style=flat-square"/>
+</p>
+
+<!-- Optional: add a GIF/screenshot of CodeStack here — the #1 thing visitors click
+<p align="center"><img src="SCREENSHOT_URL" width="90%" alt="CodeStack preview"/></p>
+-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 About Me
 
 ```python
 class HarshPatware:
@@ -66,27 +133,10 @@ class HarshPatware:
         self.portfolio  = "https://harsh-patware-dev.vercel.app"
         self.location   = "Indore, India 🇮🇳"
         self.education  = "B.Tech CSE — Medi-Caps University"
-
-        self.domains = ["EdTech", "Blockchain/DID", "AI/LLM", "Web3/SSI"]
-
-        self.stack = {
-            "frontend":  ["React", "Next.js", "TypeScript", "Tailwind CSS",
-                          "Three.js", "Framer Motion", "GSAP"],
-            "backend":   ["Node.js", "Express", "Python", "GraphQL",
-                          "REST APIs", "tRPC"],
-            "ai_ml":     ["LangChain", "Groq API", "OpenAI API",
-                          "RAG Systems", "TF-IDF Embeddings",
-                          "HuggingFace", "Ollama"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis",
-                          "Pinecone", "ChromaDB", "Prisma"],
-            "blockchain":["Ethereum", "Solidity", "Web3.js", "IPFS",
-                          "DID / SSI"],
-            "devops":    ["Docker", "AWS", "Vercel", "Git",
-                          "GitHub Actions", "CI/CD"],
-        }
+        self.domains    = ["EdTech", "Blockchain/DID", "AI/LLM", "Web3/SSI"]
 
         self.currently = {
-            "building":   "AI-native SaaS products at enterprise scale",
+            "building":   "CodeStack 🚀 + AI-native SaaS at enterprise scale",
             "shipping":   "Production apps used by govt & enterprise",
             "learning":   "Agentic AI, Multi-modal LLMs & MLOps",
             "exploring":  "AI Agents, MCP, RAG & Vector Databases",
@@ -96,313 +146,193 @@ class HarshPatware:
     def mission(self):
         return "Turn complex AI research into products real people use."
 
-me = HarshPatware()
-print(me.mission())
-# >>> "Turn complex AI research into products real people use."
+print(HarshPatware().mission())
 ```
 
 <div align="center">
 
 | 🧠 What I Do | 🎯 Current Focus |
-|---|---|
-| Architect **AI-powered full-stack systems** end to end | Building **AI-native SaaS** at enterprise scale |
-| Design **RAG pipelines** & LLM-powered applications | Exploring **Agentic AI & autonomous systems** |
-| Build **production platforms** across Blockchain, AI & EdTech | Shipping **national-scale** govt & enterprise products |
-| Ship **pixel-perfect UIs** with immersive animations | Contributing to **open-source AI tools** |
+|:--|:--|
+| Architect **AI-powered full-stack systems** end to end | Shipping **CodeStack** 🚀 |
+| Design **RAG pipelines** & LLM-powered applications | Building **AI-native SaaS** at enterprise scale |
+| Build **production platforms** across Blockchain, AI & EdTech | Exploring **Agentic AI & autonomous systems** |
+| Engineer **Web3 & SSI / DID** identity infrastructure | Scaling **Self-Sovereign Identity** systems |
+| Ship **pixel-perfect UIs** with immersive animations | Shipping **national-scale** govt & enterprise products |
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ## 🏢 Experience & Impact
 
+<table>
+<tr>
+<td width="140" align="center"><b>Jul 2024</b><br/>→ Present</td>
+<td>
+
+**🔷 Full-Stack SDE** · Information Data Systems (IDS)
+- Building enterprise platforms across **Education, Blockchain & Identity**
+- Leading dev of multiple **production-grade platforms shipped at national scale**
+- 🎓 India's first **educational metaverse** · ⛓️ **National blockchain infrastructure** & SSI systems
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>2022</b><br/>→ Jun 2024</td>
+<td>
+
+**🔹 Frontend Intern → Full-Stack** · IDS
+- Grew from intern to full-stack across client projects, dashboards & web platforms
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>2018</b><br/>→ 2022</td>
+<td>
+
+**🎓 B.Tech CSE** · Medi-Caps University
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Products%20Shipped-6%2B-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domains-4-059669?style=for-the-badge"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠 Tech Arsenal
+
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   🔷 FULL-STACK SDE @ Information Data Systems (IDS)                 │
-│      Jul 2024 — Present                                              │
-│   ─────────────────────────────────────────────────────              │
-│   ▸ Building enterprise platforms across Education,                  │
-│     Blockchain & Identity domains                                    │
-│   ▸ Leading dev of multiple production-grade platforms               │
-│     shipped at national scale                                        │
-│   ▸ India's first educational metaverse                              │
-│   ▸ National blockchain infrastructure & SSI systems                 │
-│                                                                      │
-│   🔹 FRONTEND INTERN @ IDS                                          │
-│      2022 — Jun 2024                                                 │
-│   ─────────────────────────────────────────────────────              │
-│   ▸ Grew from intern → full-stack across multiple                    │
-│     client projects, dashboards & web platforms                      │
-│                                                                      │
-│   🎓 B.Tech CSE — Medi-Caps University (2018 — 2022)                │
-│                                                                      │
-│   📊 2+ Years Experience │ 6+ Products Shipped │ 4 Domains           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+| Layer | Stack |
+|:--:|:--|
+| 🤖 **AI / LLM** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-6C3483?style=flat-square"/> <img src="https://img.shields.io/badge/TF--IDF-2E86C1?style=flat-square"/> |
+| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,html,css&theme=dark" height="36"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,graphql,prisma&theme=dark" height="36"/> <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white"/> <img src="https://img.shields.io/badge/REST-02569B?style=flat-square"/> |
+| 🗄️ **Data & Vectors** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark" height="36"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/> |
+| ⛓️ **Blockchain** | <img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="36"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/> <img src="https://img.shields.io/badge/DID%20%2F%20SSI-7B2D8E?style=flat-square"/> |
+| ☁️ **DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions,git,figma&theme=dark" height="36"/> |
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">&nbsp; Tech Arsenal & AI Toolkit
+## 🧬 AI Development Philosophy
 
 <div align="center">
 
-### 🤖 AI / ML / LLM
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TF--IDF_Embeddings-2E86C1?style=for-the-badge"/>
-</p>
-
-### ⚛️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Vector Stores
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### ⛓️ Blockchain & Web3
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DID_%2F_SSI-7B2D8E?style=for-the-badge"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+| 🎯 Problem | 🧠 AI Solution | 🚀 Impact |
+|:--|:--|:--|
+| Users need instant answers | RAG + LLM pipeline with vector search | Instant, accurate responses |
+| Complex docs, hard to search | TF-IDF embeddings + Groq ultra-fast LLM | Cited, grounded answers |
+| Slow manual code reviews | AI code-review agent + scoring | Bugs caught in seconds |
+| Static UIs | AI-powered personalization | Higher user engagement |
+| Scale issues | Microservices + cloud architecture | Enterprise-grade apps |
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+## 🌟 Featured AI Projects
 
-## 🧬 My AI Development Philosophy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🎯 PROBLEM             🧠 AI SOLUTION            🚀 IMPACT       │
-│   ─────────              ──────────────            ──────────       │
-│                                                                     │
-│   User needs      ──►   RAG + LLM Pipeline   ──►   Instant         │
-│   instant answers       with vector search          accurate        │
-│                                                     responses       │
-│                                                                     │
-│   Complex docs    ──►   TF-IDF Embeddings +   ──►   Cited,         │
-│   hard to search        Groq ultra-fast LLM         grounded        │
-│                                                     answers         │
-│                                                                     │
-│   Manual code     ──►   AI Code Review        ──►   Bugs caught    │
-│   reviews               Agent + Scoring             in seconds      │
-│                                                                     │
-│   Static UIs      ──►   AI-Powered                                  │
-│                         Personalization        ──►   10x user       │
-│                                                     engagement      │
-│                                                                     │
-│   Scale issues    ──►   Microservices +        ──►   Enterprise     │
-│                         Cloud Architecture          grade apps      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 🚀 CodeStack
+Multi-tenant **LeetCode-style coding-education platform** — sandboxed async judging, live verdicts, 8-layer permissions.
 
-<br/>
+`NestJS` · `React 19` · `PostgreSQL` · `BullMQ` · `Piston`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+[**Live App**](https://codestackweb-production.up.railway.app/) · [Details ↑](#-flagship-project--codestack)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">&nbsp; Featured AI Projects — Live & Deployed
+### 🧠 RAG Document Assistant
+Upload PDFs/text and ask questions — TF-IDF embeddings + Groq LLM for grounded answers **with cited sources**.
 
-<details>
-<summary>🧠 <b>RAG Document Assistant</b> — AI-Powered Document Q&A (Live)</summary>
-<br/>
+`Next.js` · `TypeScript` · `Groq` · `TF-IDF`
 
-> **Tech:** Next.js · TypeScript · Groq API · TF-IDF Embeddings · PDF Parsing
->
-> **What:** Upload PDFs and text files, then ask questions powered by AI. Uses TF-IDF embeddings and Groq's ultra-fast LLM for grounded answers with cited sources.
->
-> **Highlights:** Real-time document ingestion, source citations, ultra-fast inference via Groq
->
-> 🔗 [Live Demo](https://harsh-patware-dev.vercel.app/projects/rag-app) · [Portfolio](https://harsh-patware-dev.vercel.app/)
+[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/rag-app)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary>📈 <b>Stock Market AI Assistant</b> — Real-Time Market Intelligence (Live)</summary>
-<br/>
+### 📈 Stock Market AI Assistant
+Real-time **NSE/BSE** data, interactive charts and streaming AI market analysis.
 
-> **Tech:** Next.js · Yahoo Finance API · Recharts · Groq API · Streaming
->
-> **What:** Real-time Indian stock market data (NSE/BSE), interactive charts, and AI-powered analysis via Yahoo Finance and Groq.
->
-> **Highlights:** Live streaming responses, interactive financial charts, AI-driven market insights
->
-> 🔗 [Live Demo](https://harsh-patware-dev.vercel.app/projects/stock-assistant) · [Portfolio](https://harsh-patware-dev.vercel.app/)
+`Next.js` · `Yahoo Finance API` · `Recharts` · `Groq`
 
-</details>
+[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/stock-assistant)
 
-<details>
-<summary>⚡ <b>AI Code Review Agent</b> — Automated PR Analysis (Live)</summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> **Tech:** Next.js · GitHub API · Groq API · Streaming · Code Analysis
->
-> **What:** Submit a GitHub PR URL or paste a diff for AI-powered code review. Gets structured feedback with scoring across bugs, security, performance, and style.
->
-> **Highlights:** PR URL or diff input, multi-dimensional scoring, actionable suggestions
->
-> 🔗 [Live Demo](https://harsh-patware-dev.vercel.app/projects/code-review) · [Portfolio](https://harsh-patware-dev.vercel.app/)
+### ⚡ AI Code Review Agent
+Paste a PR URL or diff → structured review scored on **bugs, security, performance & style**.
 
-</details>
+`Next.js` · `GitHub API` · `Groq` · `Streaming`
+
+[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/code-review)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>🔐 <b>Enterprise Work @ IDS</b> — National-Scale Platforms (Confidential)</summary>
 <br/>
 
-> **Domains:** EdTech · Blockchain · Identity · Cloud
->
-> **Highlights:**
-> - 🎓 India's first **educational metaverse** platform
-> - ⛓️ **National blockchain infrastructure** for government
-> - 🆔 **Self-Sovereign Identity (SSI)** & DID systems
-> - 🔐 **POLYID** — Enterprise auth dashboard with OAuth 2.0, JWT & identity lifecycle
-> - ☁️ **Cloud Wallet** — Digital asset management & credential storage at scale
->
-> **Scale:** Production platforms used across government & enterprise sectors
+- 🎓 India's first **educational metaverse** platform
+- ⛓️ **National blockchain infrastructure** for government
+- 🆔 **Self-Sovereign Identity (SSI)** & DID systems
+- 🔐 **POLYID** — Enterprise auth dashboard with OAuth 2.0, JWT & identity lifecycle
+- ☁️ **Cloud Wallet** — Digital asset management & credential storage at scale
+
+**Domains:** EdTech · Blockchain · Identity · Cloud — production platforms used across government & enterprise.
 
 </details>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patware887&show_icons=true&theme=radical&hide_border=false&border_color=7F3FBF&border_radius=10&count_private=true&include_all_commits=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patware887&layout=compact&theme=radical&border_color=7F3FBF&border_radius=10" alt="Top Languages"/>
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=patware887&theme=radical&border=7F3FBF&border_radius=10" alt="Streak"/>
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=patware887&custom_title=Harsh's%20Contribution%20Graph&theme=rogue&border_color=7F3FBF&radius=10&area=true" alt="Activity Graph"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28">&nbsp; GitHub Analytics
+## 🤝 Let's Connect
 
 <div align="center">
 
-  <a href="https://github.com/patware887">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=patware887&theme=radical&border=7F3FBF&border_radius=10" alt="Harsh's Streak"/>
-  </a>
+**Building something with AI, identity or Web3? Let's talk.**
 
-  <br/><br/>
+<a href="https://harsh-patware-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-harsh--patware--dev-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/harsh-patware-78923a253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:harshpatware1505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://codestackweb-production.up.railway.app/"><img src="https://img.shields.io/badge/🚀%20Try-CodeStack-7C3AED?style=for-the-badge" alt="CodeStack"/></a>
 
-  <a href="https://github.com/patware887">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=patware887&custom_title=Harsh's%20Contribution%20Graph&theme=rogue&border_color=7F3FBF&border_radius=10&area=true&hide_border=false" alt="Activity Graph"/>
-  </a>
+<br/><br/>
 
-</div>
+> *"The best way to predict the future is to build it — and teach a model to optimize it."*
+> — **Harsh Patware** 🧠
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">&nbsp; Let's Connect & Build Something Intelligent
-
-<div align="center">
-  
-  <a href="https://harsh-patware-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-harsh--patware--dev-blueviolet?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harsh-patware-78923a253" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:harshpatware1505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/patware887" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<img src="https://img.shields.io/badge/⭐%20If%20you%20like%20my%20work%2C%20star%20my%20repos!-FFD700?style=for-the-badge" alt="Star"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The best way to predict the future is to build it         ║
-║    — and teach a model to optimize it."                      ║
-║                                                              ║
-║                              — Harsh Patware 🧠              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐%20If%20you%20like%20my%20work%2C%20star%20my%20repos!-FFD700?style=for-the-badge" alt="Star"/>
-</div>
-
-<br/>
-
-<!-- ANIMATED WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
