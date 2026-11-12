@@ -196,11 +196,7 @@ print(HarshPatware().mission())
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Products%20Shipped-6%2B-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domains-4-059669?style=for-the-badge"/>
-</div>
+<p align="center"><img src="./assets/impact.svg" width="100%" alt="2+ years · 6+ products · 4 domains · 3 live AI apps"/></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -239,52 +235,17 @@ print(HarshPatware().mission())
 
 ## 🌟 Featured AI Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 CodeStack
-Multi-tenant **LeetCode-style coding-education platform** — sandboxed async judging, live verdicts, 8-layer permissions.
-
-`NestJS` · `React 19` · `PostgreSQL` · `BullMQ` · `Piston`
-
-[**Live App**](https://codestackweb-production.up.railway.app/) · [Details ↑](#-flagship-project--codestack)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 RAG Document Assistant
-Upload PDFs/text and ask questions — TF-IDF embeddings + Groq LLM for grounded answers **with cited sources**.
-
-`Next.js` · `TypeScript` · `Groq` · `TF-IDF`
-
-[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/rag-app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Stock Market AI Assistant
-Real-time **NSE/BSE** data, interactive charts and streaming AI market analysis.
-
-`Next.js` · `Yahoo Finance API` · `Recharts` · `Groq`
-
-[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/stock-assistant)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ AI Code Review Agent
-Paste a PR URL or diff → structured review scored on **bugs, security, performance & style**.
-
-`Next.js` · `GitHub API` · `Groq` · `Streaming`
-
-[**Live Demo**](https://harsh-patware-dev.vercel.app/projects/code-review)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://codestackweb-production.up.railway.app/"><img src="./assets/codestack.svg" width="100%" alt="CodeStack"/></a>
+</p>
+<p align="center">
+  <a href="https://harsh-patware-dev.vercel.app/"><img src="./assets/ssi.svg" width="49%" alt="SSI & DID Platforms"/></a>
+  <a href="https://harsh-patware-dev.vercel.app/projects/rag-app"><img src="./assets/rag.svg" width="49%" alt="RAG Document Assistant"/></a>
+</p>
+<p align="center">
+  <a href="https://harsh-patware-dev.vercel.app/projects/stock-assistant"><img src="./assets/stock.svg" width="49%" alt="Stock Market AI Assistant"/></a>
+  <a href="https://harsh-patware-dev.vercel.app/projects/code-review"><img src="./assets/codereview.svg" width="49%" alt="AI Code Review Agent"/></a>
+</p>
 
 <details>
 <summary>🔐 <b>Enterprise Work @ IDS</b> — National-Scale Platforms (Confidential)</summary>
@@ -305,12 +266,9 @@ Paste a PR URL or diff → structured review scored on **bugs, security, perform
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patware887&show_icons=true&theme=radical&hide_border=false&border_color=7F3FBF&border_radius=10&count_private=true&include_all_commits=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patware887&layout=compact&theme=radical&border_color=7F3FBF&border_radius=10" alt="Top Languages"/>
-  <br/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=patware887&theme=radical&border=7F3FBF&border_radius=10" alt="Streak"/>
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=patware887&custom_title=Harsh's%20Contribution%20Graph&theme=rogue&border_color=7F3FBF&radius=10&area=true" alt="Activity Graph"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patware887&theme=github_dark" alt="Profile details"/>
+  <br/><br/>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=patware887&background=0d1117&border=30363d&ring=8B5CF6&fire=EC4899&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=A78BFA&sideLabels=9DA7B3&dates=6E7681&stroke=30363d&border_radius=16" alt="Streak"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
