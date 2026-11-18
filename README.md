@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%E2%9A%A1+Full+Stack+%E2%80%A2+AI+Solutions+%E2%80%A2+Web3+%E2%80%A2+SSI;%F0%9F%9A%80+Shipping+CodeStack+%E2%80%94+multi-tenant+coding+platform;%F0%9F%86%94+Self-Sovereign+Identity+%26+DID+at+national+scale;%F0%9F%A4%96+From+Pixel-Perfect+UIs+to+LLM-Powered+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=%E2%9A%A1+Full+Stack+%E2%80%A2+AI+Solutions+%E2%80%A2+Web3+%E2%80%A2+SSI;%F0%9F%86%94+Self-Sovereign+Identity+%26+DID+at+national+scale;%F0%9F%A4%96+From+Pixel-Perfect+UIs+to+LLM-Powered+Pipelines" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,7 +27,6 @@
 
 <!-- ─── QUICK NAV ─── -->
 <p align="center">
-  <a href="#-flagship-project--codestack"><b>CodeStack</b></a> •
   <a href="#-about-me"><b>About</b></a> •
   <a href="#-experience--impact"><b>Experience</b></a> •
   <a href="#-tech-arsenal"><b>Stack</b></a> •
@@ -38,85 +37,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ FLAGSHIP: CODESTACK ═══════════════════════ -->
-
-## 🚀 Flagship Project — CodeStack
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=110&text=CodeStack&fontSize=48&fontColor=fff&fontAlignY=42&desc=Multi-tenant%20LeetCode-style%20Coding%20Education%20Platform&descSize=16&descAlignY=74"/>
-
-  <a href="https://codestackweb-production.up.railway.app/"><img src="https://img.shields.io/badge/🚀_Live_App-Try_CodeStack-7C3AED?style=for-the-badge" alt="Live"/></a>
-  <a href="https://github.com/codestackrepo/Codestack"><img src="https://img.shields.io/badge/Source-Private-181717?style=for-the-badge&logo=github" alt="Repo"/></a>
-  <img src="https://img.shields.io/badge/Deployed_on-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-</div>
-
-<br/>
-
-> **Professors author problems & assignments → students submit code that's judged asynchronously in an isolated sandbox → staff grade the results.** Every university is an isolated tenant; a platform SuperAdmin provisions tenants and controls what each one can use.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✨ Key Features
-- ⚡ **Live judging** — verdicts stream `Pending → Running → Accepted` over WebSockets, with REST polling fallback
-- 🛡️ **Sandboxed execution** — self-hosted Piston pool (Python, Node, C++, Java) behind a global in-flight semaphore
-- 🏫 **Multi-tenant by design** — every query tenant-scoped through one auditable helper
-- 🔐 **8-layer permission engine** — module & feature access with RBAC, org grants and per-role overrides
-- 📏 **Per-org quotas & seats** — enforced inside the transaction with row locks, so limits can't race
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Two Onboarding Ecosystems
-- **Closed** — institutions apply, SuperAdmin approves with seat caps, admins invite professors & students into a **co-branded workspace**
-- **Open** — individual students sign up; professors request access and get approved
-
-### 📬 Production Mail
-BullMQ-queued invites, reminders & resets via a pluggable provider seam (Brevo · Resend · SMTP)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🏗️ <b>System design</b> — click to expand</summary>
-<br/>
-
-```mermaid
-flowchart LR
-    B[🌐 React 19 + Vite] -- REST /api/v1 --> A[⚙️ NestJS API<br/>stateless · guard chain]
-    A -- enqueue judge job --> Q[(BullMQ / Redis 7)]
-    Q --> W[👷 Workers]
-    W --> P[🛡️ Piston pool<br/>sandboxed exec]
-    W --> D[(🐘 PostgreSQL 16)]
-    A --> D
-    W -- progress --> R[Redis pub/sub]
-    R -- Socket.IO verdicts --> B
-```
-
-**Guard chain per request:** authn (JWT cookie) → tenant gate → RBAC → module access → feature access
-
-</details>
-
-<p align="center">
-  <b>Built with</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nestjs,ts,react,vite,tailwind,postgres,redis,docker,pnpm&theme=dark" alt="CodeStack stack"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Piston-Sandbox-4B5563?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Argon2_+_JWT-7C3AED?style=flat-square"/>
-</p>
-
-<!-- Optional: add a GIF/screenshot of CodeStack here — the #1 thing visitors click
-<p align="center"><img src="SCREENSHOT_URL" width="90%" alt="CodeStack preview"/></p>
--->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 About Me
 
@@ -136,7 +56,7 @@ class HarshPatware:
         self.domains    = ["EdTech", "Blockchain/DID", "AI/LLM", "Web3/SSI"]
 
         self.currently = {
-            "building":   "CodeStack 🚀 + AI-native SaaS at enterprise scale",
+            "building":   "AI-native SaaS at enterprise scale 🚀",
             "shipping":   "Production apps used by govt & enterprise",
             "learning":   "Agentic AI, Multi-modal LLMs & MLOps",
             "exploring":  "AI Agents, MCP, RAG & Vector Databases",
@@ -153,11 +73,11 @@ print(HarshPatware().mission())
 
 | 🧠 What I Do | 🎯 Current Focus |
 |:--|:--|
-| Architect **AI-powered full-stack systems** end to end | Shipping **CodeStack** 🚀 |
-| Design **RAG pipelines** & LLM-powered applications | Building **AI-native SaaS** at enterprise scale |
-| Build **production platforms** across Blockchain, AI & EdTech | Exploring **Agentic AI & autonomous systems** |
-| Engineer **Web3 & SSI / DID** identity infrastructure | Scaling **Self-Sovereign Identity** systems |
-| Ship **pixel-perfect UIs** with immersive animations | Shipping **national-scale** govt & enterprise products |
+| Architect **AI-powered full-stack systems** end to end | Building **AI-native SaaS** at enterprise scale |
+| Design **RAG pipelines** & LLM-powered applications | Exploring **Agentic AI & autonomous systems** |
+| Build **production platforms** across Blockchain, AI & EdTech | Scaling **Self-Sovereign Identity** systems |
+| Engineer **Web3 & SSI / DID** identity infrastructure | Shipping **national-scale** govt & enterprise products |
+| Ship **pixel-perfect UIs** with immersive animations | |
 
 </div>
 
@@ -236,9 +156,6 @@ print(HarshPatware().mission())
 ## 🌟 Featured AI Projects
 
 <p align="center">
-  <a href="https://codestackweb-production.up.railway.app/"><img src="./assets/codestack.svg" width="100%" alt="CodeStack"/></a>
-</p>
-<p align="center">
   <a href="https://harsh-patware-dev.vercel.app/"><img src="./assets/ssi.svg" width="49%" alt="SSI & DID Platforms"/></a>
   <a href="https://harsh-patware-dev.vercel.app/projects/rag-app"><img src="./assets/rag.svg" width="49%" alt="RAG Document Assistant"/></a>
 </p>
@@ -282,7 +199,6 @@ print(HarshPatware().mission())
 <a href="https://harsh-patware-dev.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-harsh--patware--dev-blueviolet?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/harsh-patware-78923a253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harshpatware1505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://codestackweb-production.up.railway.app/"><img src="https://img.shields.io/badge/🚀%20Try-CodeStack-7C3AED?style=for-the-badge" alt="CodeStack"/></a>
 
 <br/><br/>
 
